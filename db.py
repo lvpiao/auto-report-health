@@ -2,8 +2,8 @@
 
 import sqlite3
 # 用户基本参数
-# username = "202034241005"
-# password = "962464RFCrfc"
+# username = "username"
+# password = "password"
 
 # conn = sqlite3.connect('jnuser.db')
 # c = conn.cursor()
